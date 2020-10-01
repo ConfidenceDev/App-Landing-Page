@@ -1,2 +1,29 @@
 # App-Landing-Page
- A simple one page website for a mobile app using only HTML, CSS3 and Vanilla JS
+ A simple one page website for a mobile app using only HTML5, CSS3 and Vanilla JS. Currently running on Firebase hosting service. 
+
+<img src="https://github.com/Dev-Geek/Qubbe-QandA/blob/master/screenshots/icon.png" width="148">
+
+# ScreenShots
+<!--![alt text](https://github.com/Dev-Geek/Qubbe-QandA/blob/master/screenshots/1.png "1") -->
+<img src="https://github.com/Dev-Geek/Qubbe-QandA/blob/master/screenshots/2.png" width="148">
+
+<p float="left">
+<img src="https://github.com/Dev-Geek/Qubbe-QandA/blob/master/screenshots/1.png" width="148">
+<img src="https://github.com/Dev-Geek/Qubbe-QandA/blob/master/screenshots/2.png" width="148">
+</p>
+
+# Visit Site
+<a href="https://play.google.com/store/apps/details?id=live.hoova.android"><b>Click Here</b></a>
+
+# Download App
+<a href="https://play.google.com/store/apps/details?id=live.hoova.android">
+<img border="0" alt="AppLink" src="https://github.com/Dev-Geek/Qubbe-QandA/blob/master/screenshots/play_btn.png" width="240" target="_blank">
+</a>
+ 
+
+# Contact
+For inquires, support, bug reports and suggestions send me a mail@: confidostic3@gmail.com
+
+* Facebook: Onisofien Eze
+* Twitter: @Onisofien1
+* Instagram: Onisofien
