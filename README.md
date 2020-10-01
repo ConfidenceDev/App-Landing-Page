@@ -13,10 +13,10 @@
 </p>
 
 # Visit Site
-<a href="https://media-4e717.web.app/"><b>Click Here</b></a>
+<a href="https://media-4e717.web.app/" target="_blank"><b>Click Here</b></a>
 
 # Download App
-<a href="https://play.google.com/store/apps/details?id=live.hoova.android">
+<a href="https://play.google.com/store/apps/details?id=live.hoova.android" target="_blank">
 <img border="0" alt="AppLink" src="https://github.com/Dev-Geek/Qubbe-QandA/blob/master/screenshots/play_btn.png" width="240" target="_blank">
 </a>
  
