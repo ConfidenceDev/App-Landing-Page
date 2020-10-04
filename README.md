@@ -19,7 +19,6 @@
 <a href="https://play.google.com/store/apps/details?id=live.hoova.android" target="_blank">
 <img border="0" alt="AppLink" src="https://github.com/Dev-Geek/Qubbe-QandA/blob/master/screenshots/play_btn.png" width="240" target="_blank">
 </a>
- 
 
 # Contact
 For inquires, support, bug reports and suggestions send me a mail@: confidostic3@gmail.com
